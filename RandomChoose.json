@@ -1,17 +1,5 @@
 [
     {
-        "compliment": "*beep boop beep* As your personal Robot Assistant, it is my honour to recommend you my preference.",
-        "items": ["Audio"]
-    },
-    {
-        "compliment": "The weather seems nice today... I think ... Anyways, I think Lighting should help",
-        "items": ["Lighting"]
-    },
-    {
-        "compliment": "You have come to the right place to find what you need for your awesome event! Why not use Video to capture the memories?",
-        "items": ["Video"]
-    },
-    {
         "compliment": "Glad to help you get equipment for your event! Take all 3!",
         "items": ["Audio", "Lighting", "Video"]
     }
